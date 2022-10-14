@@ -1,0 +1,15 @@
+config.py
+report.html
+assets
+__pycache__
+.pytest_cache
+.idea
+assets
+georgio/.pytest_cache
+georgio/__pycache__
+georgio/assets
+georgio/config.py
+joseph/.pytest_cache
+joseph/__pycache__
+joseph/assets
+joseph/config.py

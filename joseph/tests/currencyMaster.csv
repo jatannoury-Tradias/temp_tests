@@ -1,0 +1,190 @@
+Currency Code,Currency Description,Smallest Acceptable Unit
+USDT,Tether,6
+BNB,BNB,8
+USDC,USD Coin,6
+ADA,Cardano,6
+XRP,XRP,6
+LUNA,Terra,9
+DOT,Polkadot,10
+DOGE,Dogecoin,8
+AVAX,Avalanche,9
+BUSD,Binance USD,6
+MATIC,Polygon,18
+SHIB,Shiba Inu,18
+UST,TerraUSD,6
+CRO,Crypto.com Coin,8
+WBTC,Wrapped Bitcoin,8
+DAI,Dai,18
+ATOM,Cosmos,18
+LTC,Litecoin,8
+LINK,Chainlink,18
+UNI,Uniswap,18
+ALGO,Algorand,6
+TRX,TRON,18
+FTT,FTX Token,18
+BCH,Bitcoin Cash,8
+FTM,Fantom,18
+XLM,Stellar,7
+MANA,Decentraland,18
+ICP,Internet Computer,18
+HBAR,Hedera,8
+ETC,Ethereum Classic,18
+XTZ,Tezos,6
+SAND,The Sandbox,18
+VET,VeChain,9
+FIL,Filecoin,8
+AXS,Axie Infinity,18
+EGLD,Elrond,18
+THETA,Theta Network,18
+XMR,Monero,8
+MIOTA,IOTA,8
+EOS,EOS,4
+MKR,Maker,18
+AAVE,Aave,18
+FLOW,Flow,8
+GRT,The Graph,18
+ENJ,Enjin Coin,18
+CRV,Curve DAO Token,18
+NEO,Neo,8
+KSM,Kusama,12
+ZEC,Zcash,8
+GALA,Gala,8
+RUNE,THORChain,18
+AMP,Amp,18
+BAT,Basic Attention Token,18
+CELO,Celo,18
+LRC,Loopring,18
+CHZ,Chiliz,18
+DASH,Dash,8
+MINA,Mina,9
+WAVES,Waves,18
+YFI,yearn.finance,18
+COMP,Compound,18
+1INCH,1inch Network,18
+HOT,Holo,18
+IOTX,IoTeX,18
+OMG,OMG Network,18
+ANKR,Ankr,18
+QTUM,Qtum,18
+SNX,Synthetix,18
+BNT,Bancor,18
+CEL,Celsius,18
+LPT,Livepeer,18
+AUDIO,Audius,18
+GNO,Gnosis,18
+RLY,Rally,18
+SUSHI,SushiSwap,18
+ICX,ICON,10
+ZRX,0x,18
+SC,Siacoin,24
+VGX,Voyager Token,8
+KAVA,Kava,0
+PERP,Perpetual Protocol,18
+DYDX,dYdX,18
+ENS,Ethereum Name Service,18
+BTRST,Braintrust,18
+UMA,UMA,18
+PAXG,PAX Gold,18
+SKL,SKALE Network,18
+NU,NuCypher,18
+KNC,Kyber Network Crystal v2,18
+OCEAN,Ocean Protocol,18
+REN,Ren,18
+ANT,Aragon,18
+WRX,WazirX,8
+C98,Coin98,18
+RAY,Raydium,6
+WIN,WINkLink,18
+XNO,Nano,30
+KEEP,Keep Network,18
+SXP,Swipe,18
+XYO,XYO,18
+POWR,Powerledger,6
+RGT,Rari Governance Token,18
+FET,Fetch.ai,18
+TRAC,OriginTrail,18
+MOVR,Moonriver,18
+REQ,Request,18
+CTSI,Cartesi,18
+DESO,Decentralized Social,9
+LSK,Lisk,8
+BICO,Biconomy,18
+INJ,Injective,18
+ALCX,Alchemix,18
+EWT,Energy Web Token,18
+REP,Augur,18
+ALPHA,Alpha Finance Lab,18
+AKT,Akash Network,6
+MASK,Mask Network,18
+OXT,Orchid,18
+MNGO,Mango,6
+RAD,Radicle,18
+NKN,NKN,8
+NMR,Numeraire,18
+BADGER,Badger DAO,18
+GHST,Aavegotchi,18
+OGN,Origin Protocol,18
+BAND,Band Protocol,18
+FIDA,Bonfida,6
+ATLAS,Star Atlas,8
+TRU,TrueFi,8
+MLN,Enzyme,18
+CQT,Covalent,18
+KILT,KILT Protocol,15
+MIR,Mirror Protocol,6
+KIN,Kin,5
+ACA,Acala Token,8
+CLV,Clover Finance,18
+LCX,LCX,18
+BAL,Balancer,18
+FORTH,Ampleforth Governance Token,18
+ARPA,ARPA Chain,18
+NCT,PolySwarm,18
+PHA,Phala Network,18
+DDX,DerivaDAO,18
+POLIS,Star Atlas DAO,8
+DIA,DIA,18
+RARI,Rarible,18
+SHPING,SHPING,18
+SDN,Shiden Network,15
+SUKU,SUKU,18
+LQTY,Liquity,18
+KAR,Karura,12
+SLP,Smooth Love Potion,8
+KRL,Kryll,18
+OXY,Oxygen,6
+AUCTION,Bounce Finance Governance Token,18
+LAZIO,S.S. Lazio Fan Token,8
+PORTO,FC Porto Fan Token,8
+CTX,Cryptex Finance,18
+SANTOS,Santos FC Fan Token,8
+FIS,Stafi,18
+BNC,Bifrost (BNC),15
+GOT,ParkinGo,18
+STEP,Step Finance,9
+ETH,Ethereum,18
+SRM,Serum,6
+STORJ,Storj,8
+SOL,Solana,18
+WLUNA,Wrapped LUNA Token,18
+ORCA,Orca,6
+EURT,Tether EURt,6
+ASTR,Astar,18
+SGB,Songbird,8
+SBR,Saber,6
+TBTC,tBTC,18
+WCFG,Wrapped Centrifuge,18
+KINT,Kintsugi,15
+FGP,ETF_FEELGOOD,6
+PFT,ETF_GENESIS,6
+EUR,Euro,2
+BRL,Brazilian Real,2
+CAD,Canadian Dollar,2
+PVP,ETF_PLAIN_VANILLA,6
+BTC,Bitcoin,8
+USD,USD,2
+VIJAY,Kraken,10
+GLMR,Moonbeam,18
+TFA,Classic Token TFA,18
+IMX,Immutable X,18
+CHRIS,Chris coin to the moon,5
